@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Netliege
+- 👋 Hi, I’m Scott
 - 👀 I’m interested in Data Analytics & C0d1ing!~
 - 🌱 I’m currently learning multiple languages
 - 💞️ I’m looking to collaborate on cool useful projects
