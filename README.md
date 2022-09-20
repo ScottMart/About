@@ -1,5 +1,5 @@
-- 👋 Hi, I’m netliege
-- 👀 I’m interested in Data Analysis & C0d1ing!~
+- 👋 Hi, I’m Netliege
+- 👀 I’m interested in Data Analytics & C0d1ing!~
 - 🌱 I’m currently learning multiple languages
 - 💞️ I’m looking to collaborate on cool useful projects
 - 📫 How to reach me (portfolio website)
